@@ -16,7 +16,7 @@ python
 
 sqllite
 # installation
-Clone this repository to a location in your file system. git clone https://github.com/annk1995/blogger.git
+Clone this repository to a location in your file system. git clone https://github.com/Rose1200/blog.git
 
 Open terminal command line then navigate to the root folder of the application. cd blogger
 
