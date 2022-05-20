@@ -6,13 +6,7 @@ this is the live link:44.200.116.238:2080
 the user should sign up then login in in the home page the user can see inspirational quotes being displayes and can refresh them.
 # technologies used
 
-flask framework
 
-pip packages
-
-bootstrap
-
-python
 
 sqllite
 # installation
